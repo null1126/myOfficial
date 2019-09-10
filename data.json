@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "张先生",
+      "content": "放荡不羁爱自由"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "content": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "content": "typicode"
+    }  
+  ],
+  "user": [
+    {
+      "id": 1,
+      "user": "zzw",
+      "password": 123456
+    },
+    {
+      "id": 2,
+      "user": "lch",
+      "password": 123456
+    }
+  ]
+}
